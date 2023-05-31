@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav.
-- 👀 I’m interested in cloud computing.
-- 🌱 And I’m currently learning shell scripting.
+- 👀 I’m interested in Salesforce CRM, cloud computing, code optimazation...
+- 🌱 And I’m currently learning lightning web components development.
 - 📫 You can reach me @ gauravgud2u@gmail.com
 
 <!---
